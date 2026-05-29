@@ -25,7 +25,7 @@ const projects = [
     accent: "cyan",
     metric: "3 roles · real-time recognition",
     links: [
-      { label: "Live demo", href: "https://ray-sense.vercel.app/" },
+      //{ label: "Live demo", href: "https://ray-sense.vercel.app/" },
       { label: "GitHub", href: "https://github.com/Sam-168/ray-sense" }
     ]
   },
